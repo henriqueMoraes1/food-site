@@ -103,18 +103,18 @@ body{
     background-position: bottom;
 }
 
-.home__info{
+.info__content{
     padding-top: 10px;
     align-items: center;
     justify-content: space-between;
 }
 
-.home__phone{
+.info__phone{
     padding-left: 10px;
     font-style: normal;
 }
 
-.home__working{
+.info__working{
     padding-left: 10px;
 }
 
